@@ -1,4 +1,4 @@
-# lets create madlibs
+# madlibs code in python
 
 
 verb=input("enter verb  in ing ")
